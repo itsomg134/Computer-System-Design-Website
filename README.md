@@ -1,12 +1,12 @@
-# Nexus/Arch - Computer System Design Website
+# Computer System Design Website
 
 ![Website Preview](https://via.placeholder.com/800x400/2563eb/ffffff?text=Nexus%2FArch+System+Design+Website)
 
 A modern, responsive landing page for computer system design and architecture. This website showcases the system design lifecycle, core principles, and provides a visual blueprint for computer architects, hardware designers, and students.
 
-🔗 **Live Demo**: [Coming Soon]
+ **Live Demo**: [Coming Soon]
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -18,7 +18,7 @@ A modern, responsive landing page for computer system design and architecture. T
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🔍 Overview
+##  Overview
 
 Nexus/Arch is a static HTML/CSS website designed to present computer system design concepts in a clean, professional format. It targets:
 
@@ -29,7 +29,7 @@ Nexus/Arch is a static HTML/CSS website designed to present computer system desi
 
 The page walks visitors through the four main phases of system design, presents a concrete 8-core mesh system example, and outlines core design principles.
 
-## ✨ Features
+##  Features
 
 - **Responsive Design** - Works on desktop, tablet, and mobile devices
 - **Modern UI** - Clean gradients, cards, and professional color scheme (blue/neutral palette)
@@ -40,7 +40,7 @@ The page walks visitors through the four main phases of system design, presents 
 - **Font Awesome Icons** - Over 40 icons for visual enhancement
 - **Smooth Hover Effects** - Interactive card animations
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **HTML5** - Semantic structure
 - **CSS3** - Flexbox, Grid, custom properties, animations
@@ -49,7 +49,7 @@ The page walks visitors through the four main phases of system design, presents 
 
 No JavaScript frameworks or build tools required - pure HTML/CSS!
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 nexus-arch-website/
@@ -60,7 +60,7 @@ nexus-arch-website/
     └── preview.png     # Screenshot for GitHub
 ```
 
-## 💻 Installation
+##  Installation
 
 ### Local Setup
 
@@ -90,7 +90,7 @@ nexus-arch-website/
 - **Netlify/Vercel**: Drag and drop the folder
 - **Any static hosting**: Upload the HTML file
 
-## 🎨 Usage
+##  Usage
 
 ### As a Template
 
@@ -116,7 +116,7 @@ Feel free to customize this website for your own projects:
 }
 ```
 
-## 🖌 Customization Guide
+##  Customization Guide
 
 ### Sections You Can Modify
 
@@ -143,7 +143,7 @@ Replace the ASCII art in `.mock-schematic` with:
 <img src="assets/mesh-diagram.svg" alt="8-core mesh architecture">
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -158,7 +158,7 @@ Contributions are welcome! Here's how you can help:
 - Test across browsers (Chrome, Firefox, Safari)
 - No JavaScript dependencies unless necessary
 
-## 📄 License
+##  License
 
 MIT License - feel free to use this for personal or commercial projects. Attribution appreciated but not required.
 
@@ -168,15 +168,16 @@ Copyright (c) 2025 [Your Name]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
 ```
+## Contact & Support
 
-## 🙏 Acknowledgments
+Om Gedam
 
-- Font Awesome for the icon set
-- Inter font family (default system fallback)
-- UI inspiration from modern hardware design tools
+GitHub: @itsomg134
 
----
+Email: omgedam123098@gmail.com
 
-**Built with ❤️ for computer architects and hardware enthusiasts**
+Twitter (X): @omgedam
 
-[Report Bug](https://github.com/yourusername/nexus-arch-website/issues) · [Request Feature](https://github.com/yourusername/nexus-arch-website/issues)
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
