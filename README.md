@@ -1,10 +1,8 @@
 # Computer System Design Website
 
-![Website Preview](https://via.placeholder.com/800x400/2563eb/ffffff?text=Nexus%2FArch+System+Design+Website)
-
 A modern, responsive landing page for computer system design and architecture. This website showcases the system design lifecycle, core principles, and provides a visual blueprint for computer architects, hardware designers, and students.
 
- **Live Demo**: [Coming Soon]
+![Screenshot_21-2-2026_22505_127 0 0 1](https://github.com/user-attachments/assets/d4290ac3-f4c9-4ef7-a4ab-5083b09fb457)
 
 ##  Table of Contents
 
